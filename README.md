@@ -1,68 +1,74 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ReactJS - Forms
 
-## Available Scripts
+Aplicação usando Create React App, Axios, React Router, Formik, Yup e React-Select consumindo os recursos da API do [Node - Forms](https://github.com/osvaldokalvaitir/node-forms).
 
-In the project directory, you can run:
+## Índice
 
-### `npm start`
+- [Telas](#telas)
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  - [Principal](#principal)
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+- [Rotas](#rotas)
 
-### `npm test`
+- [Desenvolvimento](#desenvolvimento)
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  - [Configurações Iniciais](#configurações-iniciais)
 
-### `npm run build`
+  - [Instalação do Projeto](#instalação-do-projeto)
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  - [Execução do Projeto](#execução-do-projeto)
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+  - [Execução da API](#execução-da-api)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  - [Bibliotecas](#bibliotecas)
 
-### `npm run eject`
+  - [APIs](#apis)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Telas
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Principal
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![Main](/assets/main.png)
+Esta é a única tela, onde encontra-se um formulário para criação de um novo usuário ou edição de um usuário existente.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Rotas
 
-## Learn More
+- Adiciona novos usuários
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Edita dados de usuários existentes
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Desenvolvimento
 
-### Code Splitting
+### Configurações Iniciais
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga as Configurações Iniciais.
 
-### Analyzing the Bundle Size
+### Instalação do Projeto
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Instalação de Projeto.
 
-### Making a Progressive Web App
+### Execução do Projeto
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
 
-### Advanced Configuration
+### Execução da API
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/json-server.md) e siga a Execução de API.
 
-### Deployment
+### Bibliotecas
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+- [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
 
-### `npm run build` fails to minify
+- [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- [Formik](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/formik.md)
+
+- [react-router-dom](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-router-dom.md)
+
+- [React-Select](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-select.md)
+
+- [Yup](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/yup.md)
+
+### APIs
+
+- [Node - Forms](https://github.com/osvaldokalvaitir/node-forms)

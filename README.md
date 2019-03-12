@@ -1,5 +1,15 @@
 # ReactJS - Forms
 
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/reactjs-forms/blob/master/LICENSE)
+![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/reactjs-forms.svg)
+![](https://img.shields.io/github/last-commit/osvaldokalvaitir/reactjs-forms.svg?color=red)
+![](https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-forms.svg?color=yellow)
+![](https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-forms.svg?color=lightgrey)
+![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/reactjs-forms.svg)
+![](https://img.shields.io/github/repo-size/osvaldokalvaitir/reactjs-forms.svg?color=blueviolet)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
 Aplicação usando Create React App, Axios, React Router, Formik, Yup e React-Select consumindo os recursos da API do [Node - Forms](https://github.com/osvaldokalvaitir/node-forms).
 
 ## Índice

@@ -43,9 +43,10 @@ Esta é a única tela, onde encontra-se um formulário para criação de um novo
 
 ## Rotas
 
-- Adiciona novos usuários
+- Usuários
 
-- Edita dados de usuários existentes
+  - Adiciona novos usuários
+  - Edita dados de usuários existentes
 
 ## Desenvolvimento
 

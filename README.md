@@ -18,8 +18,6 @@ Aplicação usando Create React App, Axios, React Router, Formik, Yup e React-Se
 
   - [Principal](#principal)
 
-- [Rotas](#rotas)
-
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configurações Iniciais](#configurações-iniciais)
@@ -30,9 +28,11 @@ Aplicação usando Create React App, Axios, React Router, Formik, Yup e React-Se
 
   - [Execução da API](#execução-da-api)
 
-  - [Bibliotecas](#bibliotecas)
-
   - [APIs](#apis)
+  
+    - [Rotas](#rotas)
+
+  - [Bibliotecas](#bibliotecas)
 
 ## Telas
 
@@ -40,13 +40,6 @@ Aplicação usando Create React App, Axios, React Router, Formik, Yup e React-Se
 
 ![Main](/assets/main.png)
 Esta é a única tela, onde encontra-se um formulário para criação de um novo usuário ou edição de um usuário existente.
-
-## Rotas
-
-- Usuários
-
-  - Adiciona novos usuários
-  - Edita dados de usuários existentes
 
 ## Desenvolvimento
 
@@ -66,6 +59,17 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/json-server.md) e siga a Execução de API.
 
+### APIs
+
+- [Node - Forms](https://github.com/osvaldokalvaitir/node-forms)
+
+#### Rotas
+
+- Usuários
+
+  - Adiciona novos usuários
+  - Edita dados de usuários existentes
+
 ### Bibliotecas
 
 - [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
@@ -79,7 +83,3 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [React-Select](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-select.md)
 
 - [Yup](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/yup.md)
-
-### APIs
-
-- [Node - Forms](https://github.com/osvaldokalvaitir/node-forms)

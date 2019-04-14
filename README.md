@@ -30,8 +30,6 @@ Aplicação usando Create React App, Axios, React Router, Formik, Yup e React-Se
 
   - [APIs](#apis)
   
-    - [Rotas](#rotas)
-
   - [Bibliotecas](#bibliotecas)
 
 ## Telas
@@ -61,14 +59,14 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### APIs
 
-- [Node - Forms](https://github.com/osvaldokalvaitir/node-forms)
+- #### [Node - Forms](https://github.com/osvaldokalvaitir/node-forms)
 
-#### Rotas
+  - ##### Rotas
 
-- Usuários
+    - Usuários
 
-  - Adiciona novos usuários
-  - Edita dados de usuários existentes
+      - Adiciona novos usuários  
+      - Edita dados de usuários existentes  
 
 ### Bibliotecas
 

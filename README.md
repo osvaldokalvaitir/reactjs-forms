@@ -28,7 +28,7 @@ Aplicação usando Create React App, Axios, React Router, Formik, Yup e React-Se
 
   - [Execução da API](#execução-da-api)
   
-- [Utilizados no Projeto](utilizados-no-projeto)
+- [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
 

@@ -28,10 +28,10 @@ Aplicação usando Create React App, Axios, React Router, Formik, Yup e React-Se
 
   - [Execução da API](#execução-da-api)
 
-  - [APIs](#apis)
-  
-  - [Bibliotecas](#bibliotecas)
+  - [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
 
+  - [APIs Utilizadas](#apis-utilizadas)
+  
 ## Telas
 
 ### Principal
@@ -57,18 +57,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/json-server.md) e siga a Execução de API.
 
-### APIs
-
-- #### [Node - Forms](https://github.com/osvaldokalvaitir/node-forms)
-
-  - ##### Rotas
-
-    - Usuários
-
-      - Adiciona novos usuários  
-      - Edita dados de usuários existentes  
-
-### Bibliotecas
+### Bibliotecas Utilizadas
 
 - [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
 
@@ -81,3 +70,14 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [React-Select](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-select.md)
 
 - [Yup](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/yup.md)
+
+### APIs Utilizadas
+
+- #### [Node - Forms](https://github.com/osvaldokalvaitir/node-forms)
+
+  - ##### Rotas
+
+    - Usuários
+
+      - Adiciona novos usuários
+      - Edita dados de usuários existentes

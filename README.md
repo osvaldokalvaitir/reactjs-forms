@@ -14,7 +14,7 @@ Aplicação usando Create React App, Axios, React Router, Formik, Yup e React-Se
 
 ## Índice
 
-- [Telas](#telas)
+- [Capturas de Tela](#capturas-de-tela)
 
   - [Principal](#principal)
 
@@ -27,12 +27,14 @@ Aplicação usando Create React App, Axios, React Router, Formik, Yup e React-Se
   - [Execução do Projeto](#execução-do-projeto)
 
   - [Execução da API](#execução-da-api)
-
-  - [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
-
-  - [APIs Utilizadas](#apis-utilizadas)
   
-## Telas
+- [Utilizados no Projeto](utilizados-no-projeto)
+
+  - [Bibliotecas](#bibliotecas)
+
+  - [APIs](#apis)
+  
+## Capturas de Tela
 
 ### Principal
 
@@ -57,7 +59,9 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/json-server.md) e siga a Execução de API.
 
-### Bibliotecas Utilizadas
+## Utilizados no Projeto
+
+### Bibliotecas
 
 - [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
 
@@ -71,7 +75,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Yup](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/yup.md)
 
-### APIs Utilizadas
+### APIs
 
 - #### [Node - Forms](https://github.com/osvaldokalvaitir/node-forms)
 

@@ -38,7 +38,7 @@ Aplicação usando Create React App, Axios, React Router, Formik, Yup e React-Se
 
 ### Principal
 
-![Main](/assets/main.png)
+![Main](/.github/assets/main.png)
 Esta é a única tela, onde encontra-se um formulário para criação de um novo usuário ou edição de um usuário existente.
 
 ## Desenvolvimento

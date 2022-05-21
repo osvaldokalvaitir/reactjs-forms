@@ -1,87 +1,63 @@
-# ReactJS - Forms
+<h1 align="center">
+    <img src="/.github/assets/logo.svg"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/reactjs-forms/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/reactjs-forms.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/reactjs-forms.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-forms.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-forms.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/reactjs-forms.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/reactjs-forms.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  ReactJS - Forms
+</h3>
 
-Aplicação usando Create React App, Axios, React Router, Formik, Yup e React-Select consumindo os recursos da API do [Node.js - Forms](https://github.com/osvaldokalvaitir/nodejs-forms).
+<p align="center">
+  :man: Application using Create React App, Axios, React Router, Formik, Yup, React-Select and consuming the features of the Node.js - Forms API
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-forms.svg?color=00A83A">
 
-- [Capturas de Tela](#capturas-de-tela)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-forms.svg?color=00A83A">
 
-  - [Principal](#principal)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+<p align="center">
+  <a href="#computer-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+## :computer: Demo
 
-  - [Execução do Projeto](#execução-do-projeto)
+![Demo](/.github/assets/demo.png)
 
-  - [Execução da API](#execução-da-api)
-  
-- [Utilizados no Projeto](#utilizados-no-projeto)
+## :wrench: Install and run
 
-  - [Bibliotecas](#bibliotecas)
+_ps: Before running the app, start the [Node.js - Forms](https://github.com/osvaldokalvaitir/nodejs-forms) backend._
 
-  - [APIs](#apis)
-  
-## Capturas de Tela
+Open terminal:
 
-### Principal
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/reactjs-forms
 
-![Main](/.github/assets/main.png)
-Esta é a única tela, onde encontra-se um formulário para criação de um novo usuário ou edição de um usuário existente.
+# Entry in folder
+cd reactjs-forms
 
-## Desenvolvimento
+# Install deps with npm or yarn
+npm install | yarn
 
-### Configuração do Ambiente
+# Launch the app with npm or yarn
+npm start | yarn start
+```
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+## :memo: License
 
-### Instalação do Projeto
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+---
 
-### Execução do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga `Execução de Projeto para Desenvolvimento` ou `Construção e Execução de Projeto para Produção`.
-
-### Execução da API
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/json-server.md) e siga `Execução de API`.
-
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
-
-- [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
-
-- [Formik](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/formik.md)
-
-- [react-router-dom](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-router-dom.md)
-
-- [React-Select](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-select.md)
-
-- [Yup](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/yup.md)
-
-### APIs
-
-- **[Node.js - Forms](https://github.com/osvaldokalvaitir/nodejs-forms)**
-
-  - **Rotas**
-
-    - Usuários
-
-      - Adiciona novos usuários
-      - Edita dados de usuários existentes
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
